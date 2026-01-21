@@ -6,7 +6,7 @@
 ---
 
 ## 🧠 Overview
-Warehouse Wreckage is a physics-driven game where players launch projectiles to destroy structures, emphasizing Unreal Engine’s physics system and interactive environments.
+Warehouse Wreckage is a physics-driven game build using Blueprints where players launch projectiles to destroy structures, emphasizing Unreal Engine’s physics system and interactive environments.
 
 ---
 
