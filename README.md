@@ -1,27 +1,29 @@
 # Warehouse Wreckage
 **Physics-Based Destruction Game | Unreal Engine 5.6**
 
-🎮 Solo project focusing on physics interactions and projectile-based gameplay.
+🎮 Solo project developed using Unreal Engine 5.6, focusing on **Blueprint-based gameplay systems** and physics-driven interaction.
 
 ---
 
 ## 🧠 Overview
-Warehouse Wreckage is a physics-driven game build using Blueprints where players launch projectiles to destroy structures, emphasizing Unreal Engine’s physics system and interactive environments.
+Warehouse Wreckage is a physics-driven game where players launch projectiles to destroy structures.  
+The project focuses on **Blueprint scripting**, Unreal Engine’s **physics system**, and interactive gameplay design.
 
 ---
 
 ## 🚀 Key Features
+- Fully implemented using **Blueprints (no C++ code)**
 - Physics-enabled objects and destruction mechanics
 - Dynamic projectile spawning and firing system
 - Aiming mechanics and ammunition management
 - UI displaying remaining ammo using UMG
-- Creative level building using Blueprint extensions
+- Creative level building and experimentation with physics gameplay
 
 ---
 
 ## 🛠 Technologies Used
 - Unreal Engine 5.6
-- Blueprints
+- Blueprint Visual Scripting
 - Physics System
 - UMG (UI)
 
@@ -33,4 +35,4 @@ Warehouse Wreckage is a physics-driven game build using Blueprints where players
 ---
 
 ## 📌 Notes
-This project highlights physics-based gameplay design and experimentation within Unreal Engine.
+This project demonstrates strong understanding of Blueprint scripting, physics-based gameplay mechanics, and rapid prototyping within Unreal Engine.
